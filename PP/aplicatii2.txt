@@ -1,0 +1,8 @@
+2
+Entertainment 3
+YouTube 1
+Netflix 0
+Spotify 0
+Social 2
+Facebook 1
+Instagram 0
